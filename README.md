@@ -1,4 +1,4 @@
-# 🌐 ALX Frontend Engineering - HTML Fundamentals
+# 🌐 ALX Frontend Engineering - Perosnal Portfolio with the use of HTML
 
 [![ALX](https://img.shields.io/badge/ALX-Software_Engineering-blue.svg)](https://www.alxafrica.com/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -51,25 +51,21 @@ By completing these projects, I've gained proficiency in:
 ## 📁 Project Structure
 
 ```
-<!-- alx-frontend-html/
+ My_First_Portfolio/
 │
-├── 0x00-html_basics/
-│   ├── 0-index.html
-│   ├── 1-index.html
-│   ├── 2-index.html
-│   └── README.md
+├── html_basics/
+│   ├── base_index.html
+│   ├── index.html
+│   ├── index.html, tweets.html
+|   ├──index.html, tweet.html
 │
-├── 0x01-html_advanced/
-│   ├── 0-index.html
-│   └── README.md
+├── Structures to be updated as course progresses
 │
-├── assets/
-│   ├── images/
-│   └── icons/
+├──Structures to be updated as course progresses
 │
-├── .gitignore
-├── LICENSE
-└── README.md -->
+├
+├
+└── README.md 
 ```
 
 ## 🚀 Setup & Usage
@@ -150,11 +146,10 @@ This is a personal learning repository that is used to build a personal portfoli
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Oladepo Abdlbaki Opeyemi**
 
 - GitHub: [@SireTallest](https://github.com/SireTallest)
 - Twitter: [@sire_tallest](https://x.com/sire_tallest)
@@ -171,7 +166,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-❤️-red.svg"/>
-  <img src="https://img.shields.io/badge/ALX-2024-blue.svg"/>
+  <img src="https://img.shields.io/badge/ALX-2025-blue.svg"/>
 </p>
 
 <p align="center">
