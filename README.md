@@ -1,4 +1,4 @@
-# 🌐 ALX Frontend Engineering - Perosnal Portfolio with the use of HTML
+# 🌐 Personal Portfolio with the use of HTML- ALX Frontend Engineering
 
 [![ALX](https://img.shields.io/badge/ALX-Software_Engineering-blue.svg)](https://www.alxafrica.com/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -57,7 +57,7 @@ By completing these projects, I've gained proficiency in:
 │   ├── base_index.html
 │   ├── index.html
 │   ├── index.html, tweets.html
-|   ├──index.html, tweet.html
+|   
 │
 ├── Structures to be updated as course progresses
 │
@@ -110,7 +110,7 @@ Simply open any `.html` file in your preferred web browser:
 | 0 | Basic Structure | `base_index.html` |
 | 1 | Making a cool first webpage | `index.html` |
 | 2 | Making a cool other webpage | `index.html, tweets.html` |
-| 3 | Making a cool website| `index.html, tweet.html` |
+| 3 | Making a cool website| `index.html, tweets.html` |
 | 4 | Adding some level of creativity | `index.html` |
 | 5 | Building a Personal Portfolio Webpage | `index.html` |
 
