@@ -57,10 +57,8 @@ By completing these projects, I've gained proficiency in:
 │   ├── base_index.html
 │   ├── index.html
 │   ├── index.html, tweets.html
-|   
-│
-├── Structures to be updated as course progresses
-│
+├── portfolio/
+│   ├── index.html
 ├──Structures to be updated as course progresses
 │
 ├
