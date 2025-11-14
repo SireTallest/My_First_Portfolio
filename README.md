@@ -59,10 +59,18 @@ By completing these projects, I've gained proficiency in:
 │   ├── index.html, tweets.html
 ├── portfolio/
 │   ├── index.html
-├──Structures to be updated as course progresses
-│
-├
-├
+|
+├──TechCon_HTML/
+|  ├──techcon_website/
+|     ├── index.html
+│     ├── about.html
+|     ├── contact.html
+|     ├── register.html
+|     ├── schedule.html
+|
+|
+|├── Remaining structures shall be updated as project proceeds 
+|
 └── README.md 
 ```
 
